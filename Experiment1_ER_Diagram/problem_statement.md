@@ -1,4 +1,6 @@
 # ER Diagram Workshop – Submission Template
+## NAME: HARSHIDA K S
+## REG NO: 212224040108
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
